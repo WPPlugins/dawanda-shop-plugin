@@ -1,0 +1,157 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-09-11 21:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../dmke-dawanda.php:96
+msgid "Sorry, your PHP installation does not support native XML parsing. Please disable this Plugin or contact your provider: This plugin requires PHP 5 with SimpleXML support."
+msgstr ""
+
+#: ../dmke-dawanda.php:159
+msgid "Dawanda shop configuration"
+msgstr ""
+
+#: ../dmke-dawanda.php:160
+msgid "Dawanda configuration"
+msgstr ""
+
+#: ../dmke-dawanda.php:177
+msgid "more&hellip;"
+msgstr ""
+
+#: ../dmke-dawanda.php:201
+msgid "<a href=\"http://dawanda.com\">DaWanda</a> shop options"
+msgstr ""
+
+#: ../dmke-dawanda.php:206
+msgid "General options"
+msgstr ""
+
+#: ../dmke-dawanda.php:211
+msgid "Your DaWanda user name:"
+msgstr ""
+
+#: ../dmke-dawanda.php:216
+msgid "You should insert your DaWanda user/shop name. If you don't, \"DMKE\" will be used instead."
+msgstr ""
+
+#: ../dmke-dawanda.php:222
+msgid "How many products shall be displayed?"
+msgstr ""
+
+#: ../dmke-dawanda.php:231
+msgid "Where are you registered at dawanda.com?"
+msgstr ""
+
+#: ../dmke-dawanda.php:236
+msgid "DaWanda Germany"
+msgstr ""
+
+#: ../dmke-dawanda.php:241
+msgid "DaWanda United Kingdom"
+msgstr ""
+
+#: ../dmke-dawanda.php:246
+msgid "DaWanda France"
+msgstr ""
+
+#: ../dmke-dawanda.php:252
+msgid "Display options"
+msgstr ""
+
+#: ../dmke-dawanda.php:255
+msgid "Hint: If you like to use this plugin as a Widget, you should leave the HTML options on the defaults."
+msgstr ""
+
+#: ../dmke-dawanda.php:261
+msgid "This HTML will be around all products:"
+msgstr ""
+
+#: ../dmke-dawanda.php:264 ../dmke-dawanda.php:274
+msgid "before and"
+msgstr ""
+
+#: ../dmke-dawanda.php:265 ../dmke-dawanda.php:275
+msgid "after"
+msgstr ""
+
+#: ../dmke-dawanda.php:271
+msgid "This HTML will be around a single product:"
+msgstr ""
+
+#: ../dmke-dawanda.php:281
+msgid "Link with this text to the product:"
+msgstr ""
+
+#: ../dmke-dawanda.php:285
+msgid "You also can enter an image tag (<code>&lt;img src=\"\" /&gt;</code>)"
+msgstr ""
+
+#: ../dmke-dawanda.php:291
+msgid "Shall the product price be displayed?"
+msgstr ""
+
+#: ../dmke-dawanda.php:296 ../dmke-dawanda.php:315
+msgid "yes"
+msgstr ""
+
+#: ../dmke-dawanda.php:301 ../dmke-dawanda.php:320
+msgid "no"
+msgstr ""
+
+#: ../dmke-dawanda.php:308
+msgid "Remove Google Analytics statistics?"
+msgstr ""
+
+#: ../dmke-dawanda.php:321
+msgid "By default DaWanda delivers the links to your products with some statistical information you may not benefit from. If you like you can disable this here by clicking \"yes\"."
+msgstr ""
+
+#: ../dmke-dawanda.php:327
+msgid "Update Options"
+msgstr ""
+
+#: ../dmke-dawanda.php:333
+msgid "Preview"
+msgstr ""
+
+#: ../dmke-dawanda.php:335
+msgid "This list is the result of the above settings. To format the presentation, these CSS classes may be used:"
+msgstr ""
+
+#: ../dmke-dawanda.php:339
+msgid "This is the container which contains a single product."
+msgstr ""
+
+#: ../dmke-dawanda.php:341
+msgid "This is the link around the preview image."
+msgstr ""
+
+#: ../dmke-dawanda.php:343
+msgid "This is the preview image."
+msgstr ""
+
+#: ../dmke-dawanda.php:345
+msgid "This is the link directing your visitors to the products page at dawanda.com."
+msgstr ""
+
+#: ../dmke-dawanda.php:347
+msgid "If you display the price of your product, this is the selector."
+msgstr ""
+
+#: ../dmke-dawanda.php:363
+msgid "You can manage the options of this widget on the <a href=\"./plugins.php?page=dmke-dawanda/dmke-dawanda.php\">options page</a>"
+msgstr ""

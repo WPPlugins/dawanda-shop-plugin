@@ -1,0 +1,29 @@
+DE
+
+
+Dieses Plugin wird unter einer Doppellizenz veröffentlicht.
+
+1. GNU GPL 2 - siehe http://www.gnu.org/copyleft/gpl.html
+2. CC-by 2.0 - siehe http://creativecommons.org/licenses/by/2.0/de
+
+(cc/GPL) Dominik Menke, 2007, http://dmke.de
+
+Teile der vorliegenden Software verwenden Werke von Mark James
+(CC-by Mark James - http://www.famfamfam.com/lab/icons/silk/)
+
+
+
+
+
+EN
+
+
+This plugin is dual-licensed by
+
+1. GNU GPL 2 - see http://www.gnu.org/copyleft/gpl.html
+2. CC-by 2.0 - see http://creativecommons.org/licenses/by/2.0/de
+
+(cc/GPL) Dominik Menke, 2007, http://dmke.de
+
+Parts of this software makes use of Mark James Silk icon set.
+(CC-by Mark James - http://www.famfamfam.com/lab/icons/silk/)

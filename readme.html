@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>DaWanda shop plugin for WordPress &rsaquo; Readme</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" href="../../../wp-admin/css/install.css" type="text/css" />
+</head>
+<body>
+<h1 id="logo" style="text-align: center">
+	DaWanda shop plugin for WordPress<br />
+	<img src="http://dawanda.com/images/banner/badge_120_logo.png" /><br />
+	Version 2.0
+</h1>
+
+<h1 id="installation">Installation</h1>
+
+<h2>Welcome dear DaWanda user!</h2>
+
+<p>You're lucky, if this page has a stylesheet&thinsp;&mdash;&thinsp;then you've already extracted and uploaded the directory <code>dmke-dawanda</code> correctly!</p>
+
+<p>If this is not so, you'll have to upload the directory <code>dmke-dawanda</code> on your FTP server to <code>&lt;blog root&gt;/wp-content/plugins/</code>. After that you should be able to access this page with <code>http://&lt;URI to your blog&gt;/wp-content/plugins/dmke-dawanda/readme.html</code>. Continue only, if you're so far.</p>
+
+<h1>Finished? Then let's go&hellip;!</h1>
+
+<p>Open the plugin management of WordPress and activate the &laquo;DaWanda-Shop-Plugin f&uuml;r WordPress&raquo;, version 2.0.</p>
+
+<p>Hint: If you are seeing the error that your PHP installation does not soppurt XML parsing, please ask your provider how you can access PHP version 5 with SimpleXML support. You cannot use this plugin if there is no SimpleXML support.</p>
+
+<h1>Configuration</h1>
+
+<p>In the plugin management panel should a new tab (&laquo;DaWanda Configuration&raquo;) be created. Go there and setup your plugin as you like. Most of the options are self-explanatory&thinsp;&mdash;&thinsp;but if you have questions or if you need help, you can ask me in <a href="http://dmke.de/">my blog</a>.</p>
+
+<h1>Integration</h1>
+
+<p><em>New!</em> Version 2.0 of this plugin comes with widget support (native widget support in WP2.2+). Go to <code>Themes/ Widgets</code> and add the &laquo;DaWanda Shop&raquo; to any sidebar listed there. Note: If your current theme does not support widgets too, you have to include your products by using a Teplate Tag:</p>
+
+<p>To presentate your DaWanda products in your blog, you can use <code>&lt;?php dmke_dawanda_template_tag(); ?&gt;</code>. E.g. edit your <code>sidebar.php</code> and paste this code <code>&lt;?php if (function_exists('dmke_dawanda_template_tag')) dmke_dawanda_template_tag(); ?&gt;</code> to an adequate position.</p>
+
+<h1>Concluding remark</h1>
+
+<p>For critics, bug reports and suggestions you can contact me in <a href="http://dmke.de/">my blog</a> or via <a href="mailto:wp.plugins@dmke.de">email</a>.</p>
+
+<p id="footer">(<a href="http://creativecommons.org/licenses/by/2.0" title="Lizenz" rel="copyright">cc</a>/<a href="http://www.gnu.org/copyleft/gpl.html" rel="copyright">GPL</a>) <a href="http://dmke.de" title="My blog">DM</a><a href="http://dmke.dawanda.com" title="My shop">KE</a>.</p>
+
+</body>
+</html>

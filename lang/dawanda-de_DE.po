@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DaWanda shop plugin for WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-09-11 21:55+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dominik Menke <wp.plugins@dmke.de>\n"
+"Language-Team: Dominik Menke <wp.plugins@dmke.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: ../dmke-dawanda.php:96
+msgid "Sorry, your PHP installation does not support native XML parsing. Please disable this Plugin or contact your provider: This plugin requires PHP 5 with SimpleXML support."
+msgstr "Ups, deine PHP-Installation unterst&uuml;tzt das XML-Format nicht. Bitte deaktiviere diese Plugin und kontaktiere deinen Provider: Dieses Plugin ben&ouml;tigt PHP 5 mit SimpleXML-Unterst&uuml;tzung."
+
+#: ../dmke-dawanda.php:159
+msgid "Dawanda shop configuration"
+msgstr "DaWanda-Shop-Konfiguration"
+
+#: ../dmke-dawanda.php:160
+msgid "Dawanda configuration"
+msgstr "DaWanda Einstellungen"
+
+#: ../dmke-dawanda.php:177
+msgid "more&hellip;"
+msgstr "mehr&hellip;"
+
+#: ../dmke-dawanda.php:201
+msgid "<a href=\"http://dawanda.com\">DaWanda</a> shop options"
+msgstr "<a href=\"http://dawanda.com\">DaWanda</a>-Shop-Einstellungen"
+
+#: ../dmke-dawanda.php:206
+msgid "General options"
+msgstr "Allgemeine Einstellungen"
+
+#: ../dmke-dawanda.php:211
+msgid "Your DaWanda user name:"
+msgstr "Dein DaWanda-Benutzername:"
+
+#: ../dmke-dawanda.php:216
+msgid "You should insert your DaWanda user/shop name. If you don't, \"DMKE\" will be used instead."
+msgstr "Hier solltest du deinen DaWanda-Benutzernamen eintragen. Bleibt das Feld leer, wird \"DMKE\" eingetragen."
+
+#: ../dmke-dawanda.php:222
+msgid "How many products shall be displayed?"
+msgstr "Wieviele Artikel sollen maximal angezeigt werden?"
+
+#: ../dmke-dawanda.php:231
+msgid "Where are you registered at dawanda.com?"
+msgstr "Bei welchem DaWanda bist du registriert?"
+
+#: ../dmke-dawanda.php:236
+msgid "DaWanda Germany"
+msgstr "DaWanda Deutschland"
+
+#: ../dmke-dawanda.php:241
+msgid "DaWanda United Kingdom"
+msgstr "DaWanda Vereinigtes K&ouml;nigreich"
+
+#: ../dmke-dawanda.php:246
+msgid "DaWanda France"
+msgstr "DaWanda Frankreich"
+
+#: ../dmke-dawanda.php:252
+msgid "Display options"
+msgstr "Anzeigeeinstellungen"
+
+#: ../dmke-dawanda.php:255
+msgid "Hint: If you like to use this plugin as a Widget, you should leave the HTML options on the defaults."
+msgstr "Hinweis: Wenn du das Plugin als Widget verwenden m&ouml;chtest, belasse die HTML-Eingabefelder so wie sie sind."
+
+#: ../dmke-dawanda.php:261
+msgid "This HTML will be around all products:"
+msgstr "Dieser HTML-Code wird um die gesamte Liste angelegt:"
+
+#: ../dmke-dawanda.php:264
+#: ../dmke-dawanda.php:274
+msgid "before and"
+msgstr "davor, und"
+
+#: ../dmke-dawanda.php:265
+#: ../dmke-dawanda.php:275
+msgid "after"
+msgstr "danach"
+
+#: ../dmke-dawanda.php:271
+msgid "This HTML will be around a single product:"
+msgstr "Dieser HTML-Code wird um einzelne Eintr&auml;ge angelegt:"
+
+#: ../dmke-dawanda.php:281
+msgid "Link with this text to the product:"
+msgstr "Mit diesem Text zum Artikel verlinken:"
+
+#: ../dmke-dawanda.php:285
+msgid "You also can enter an image tag (<code>&lt;img src=\"\" /&gt;</code>)"
+msgstr "Du kannst auch ein Bild (<code>&lt;img src=\"\" /&gt;</code>) angeben"
+
+#: ../dmke-dawanda.php:291
+msgid "Shall the product price be displayed?"
+msgstr "Soll der Preis angezeigt werden?"
+
+#: ../dmke-dawanda.php:296
+#: ../dmke-dawanda.php:315
+msgid "yes"
+msgstr "ja"
+
+#: ../dmke-dawanda.php:301
+#: ../dmke-dawanda.php:320
+msgid "no"
+msgstr "nein"
+
+#: ../dmke-dawanda.php:308
+msgid "Remove Google Analytics statistis?"
+msgstr "Google-Analytics-Statistiken entfernen?"
+
+#: ../dmke-dawanda.php:321
+msgid "By default DaWanda delivers the links to your products with some statistical information you may not benefit from. If you like you can disable this here by clicking \"yes\"."
+msgstr "Per Default liefert DaWanda die Links zu deinen Produkten mit einigen statistischen Informationen aus, von denen du unter Umst&auml;den gar nicht profitierst. Um diese Informationen herauszufiltern klicke \"ja\" an."
+
+#: ../dmke-dawanda.php:327
+msgid "Update Options"
+msgstr "Einstellungen aktualisieren"
+
+#: ../dmke-dawanda.php:333
+msgid "Preview"
+msgstr "Vorschau"
+
+#: ../dmke-dawanda.php:335
+msgid "This list is the result of the above settings. To format the presentation, these CSS classes may be used:"
+msgstr "Diese Liste resultiert aus den obigen Einstellungen. Um die Liste zu formatieren kannst du diese CSS-Klassen verwenden:"
+
+#: ../dmke-dawanda.php:339
+msgid "This is the container which contains a single product."
+msgstr "Dieser Container beinhaltet einen einzelnen Artikel."
+
+#: ../dmke-dawanda.php:341
+msgid "This is the link around the preview image."
+msgstr "Dieser Link umschlie&szlig;t das Vorschaubild."
+
+#: ../dmke-dawanda.php:343
+msgid "This is the preview image."
+msgstr "Dies ist das Vorschaubild."
+
+#: ../dmke-dawanda.php:345
+msgid "This is the link directing your visitors to the products page at dawanda.com."
+msgstr "Dieser Link f&uuml;hrt deine Besucher direkt zur Artikel-Seite auf dawanda.com."
+
+#: ../dmke-dawanda.php:347
+msgid "If you display the price of your product, this is the selector."
+msgstr "Wenn du den Preis anzeigen l&auml;sst ist dies der Selektor um ihn anzusprechen."
+
+#: ../dmke-dawanda.php:363
+msgid "You can manage the options of this widget on the <a href=\"./plugins.php?page=dmke-dawanda/dmke-dawanda.php\">options page</a>"
+msgstr "Du kannst die Einstellungen f&uuml;r dieses Widget in den <a href=\"./plugins.php?page=dmke-dawanda/dmke-dawanda.php\">Einstellungen</a> des Plugins vornehmen."
+

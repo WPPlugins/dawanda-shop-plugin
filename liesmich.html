@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>DaWanda-Shop-Plugin f&uuml;r WordPress &rsaquo; Liesmich</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" href="../../../wp-admin/css/install.css" type="text/css" />
+</head>
+<body>
+<h1 id="logo" style="text-align: center">
+	DaWanda-Shop-Plugin f&uuml;r WordPress<br />
+	<img src="http://dawanda.com/images/banner/badge_120_logo.png" /><br />
+	Version 2.0
+</h1>
+
+<h1 id="installation">Installation</h1>
+
+<h2>Willkommen, liebe DaWanderin, willkommen lieber DaWanderer!</h2>
+
+<p>Wenn du das hier mit Style-Angaben lesen kannst (sich also links und rechts ein breiterer grauer Rahmen befindet und die &Uuml;berschriften unterstrichen erscheinen), befindet sich das Verzeichnis f&uuml;r das DaWanda-Shop-Plugin wohl an der richtigen Stelle.</p>
+
+<p>Falls nicht, kopiere das im Archiv enthaltene Verzeichnis <code>dmke-dawanda</code> nach <code>&lt;Bloginstallation&gt;/wp-content/plugins/</code>, so dass du diese Seite mit <code>http://&lt;URL zu deinem Blog&gt;/wp-content/plugins/dmke-dawanda/liesmich.html</code> aufrufen kannst. Fahre erst fort, wenn du soweit bist.</p>
+
+<h1>Fertig? Dann weiter&hellip;!</h1>
+
+<p>Gehe nun in die Pluginverwaltung von WordPress und aktiviere dort das Plugin &raquo;DaWanda-Shop-Plugin f&uuml;r WordPress&laquo;, Version 2.0.</p>
+
+<p>Hinweis: Sollte eine Fehlermeldung auftauchen, dass deine PHP-Installation keinen XML-Support bietet, kannst du das Plugin leider nicht verwenden. Dieses Plugin arbeitet nur mit PHP ab Version 5.0 zusammen. Wenn du das Plugin dennoch verwenden willst, frage deinen Provider, wie du PHP5-Unterst&uuml;tzng erhalten kannst.</p>
+
+<h1>Konfiguration</h1>
+
+<p>Im Panel der Plugins sollte nun oben der Reiter &raquo;DaWanda Konfiguration&laquo; aufgetaucht sein. Begib dich dorthin und stelle dein Plugin nun so ein, wie du es haben m&ouml;chtest. Die meisten Optionen sind selbsterkl&auml;rend &ndash; und wenn du doch Hilfe ben&ouml;tigst, findest du sicher Rat bei mir im <a href="http://dmke.de/">Blog</a>.</p>
+
+<h1>Integration</h1>
+
+<p><em>Neu!</em> Mit Verison 2.0 ist dieses Plugin auf in der Lage als Widget verwendet zu werden (setzt WP2.2 voraus). Gehe dazu im Admin-Men&uuml; nach <code>Darstellung/ Widgets</code> und f&uuml;ge dort den Eintrag <code>DaWanda-Shop</code> einer deiner Seitenleisten hinzu. Wichtig: Das verwendete Theme muss Widgets unterst&uuml;tzen. Wenn es dies nicht tut, wähle die Alternative:</p>
+
+<p>Um deine DaWanda-Artikel im Blog zu pr&auml;sentieren kannst du auch das Template-Tag <code>&lt;?php dmke_dawanda_template_tag(); ?&gt;</code> verwenden. Bearbeite dazu beispielsweise die <code>sidebar.php</code> und f&uuml;ge dieses St&uuml;ck Code ein: <code>&lt;?php if (function_exists('dmke_dawanda_template_tag')) dmke_dawanda_template_tag(); ?&gt;</code></p>
+
+<h1>Schlu&szlig;bemerkungen</h1>
+
+<p>F&uuml;r Lob und Kritik, Fehlerberichte und Verbesserungsvorschl&auml;ge bin ich immer gerne zu erreichen. Am besten via Kommentar im <a href="http://dmke.de/">Blog</a> oder aber auch via <a href="mailto:wp.plugins@dmke.de">E-Mail</a>.</p>
+
+<p id="footer">(<a href="http://creativecommons.org/licenses/by/2.0/de" title="Lizenz" rel="copyright">cc</a>/<a href="http://www.gnu.org/copyleft/gpl.html" rel="copyright">GPL</a>)	<a href="http://dmke.de" title="Mein Blog">DM</a><a href="http://dmke.dawanda.com" title="Mein Shop">KE</a>.</p>
+
+</body>
+</html>
